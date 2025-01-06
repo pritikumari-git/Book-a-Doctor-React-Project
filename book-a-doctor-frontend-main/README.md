@@ -11,15 +11,6 @@
 ## Kanban Board
 [Kanban Board](https://github.com/clintonjosephs/book-a-doctor-backend/projects/1)
 
-## Initial state Of Kanban Board
-[Initial Kanban Board](https://github.com/clintonjosephs/book-a-doctor-backend/issues/15)
-
-> ***We are a group of five***
-1. Team 1 - [Clinton](https://github.com/clintonjosephs)
-2. Team 2 - [Jihane](https://github.com/jaflih)
-3. Team 3 - [Nuri](https://github.com/Nuri1977)
-4. Team 4 - [Mithi](https://github.com/Mithi-code)
-5. Team 5 - [Atilla](https://github.com/AtillaTahak)
 
 ## Preview:
 
@@ -94,47 +85,13 @@ npm run test
 ```
 
 
-## Backend Repo
-
-[Book Doctors Backend](https://github.com/clintonjosephs/book-a-doctor-backend.git)
 
 
-## Team Members
-
-👤 **CLINTON MBONU**
-
-- GitHub: [@clintonjosephs](https://github.com/clintonjosephs)
-- Twitter: [@clintonmbonu2](https://twitter.com/clintonmbonu2)
-- LinkedIn: [@clinton-mbonu](https://www.linkedin.com/in/clinton-mbonu/)
-
-👤 **MITHLESH KUMAR**
-
-- GitHub: [@Mithi-code](https://github.com/Mithi-code)
-- LinkedIn: [@mithicode](https://www.linkedin.com/in/mithicode/)
-- Twitter: [@LazyMithlesh](https://twitter.com/LazyMithlesh)
-
-👤 **Jihane Aflih**
-
-- GitHub: [@jaflih](https://github.com/jaflih)
-- LinkedIn: [@jaflih](https://www.linkedin.com/in/jaflih/)
-
-👤 **NURI LACKA**
-
-- GitHub: [@Nuri1977](https://github.com/Nuri1977)
-- LinkedIn: [@Nuri](https://www.linkedin.com/in/nuri-lacka-7141b01ba/)
-- Twitter: [@LackaNuri](https://twitter.com/LackaNuri)
-
-👤 **ATILLA**
-
-- Github : [@AtillaTahak](https://github.com/AtillaTahak)
-- Twitter : [@AtillaTahaa](https://twitter.com/AtillaTahaa)
-- LinkedIn: [@Ailla](https://www.linkedin.com/in/atilla-taha-k%C3%B6rd%C3%BC%C4%9F%C3%BCm-a93702186/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/clintonjosephs/book-a-doctor-frontend/issues).
 
 ## Show your support
 
