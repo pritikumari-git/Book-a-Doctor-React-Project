@@ -14,15 +14,15 @@
 
 ### Details Page
 
-![screenshot](./src/assets/images/details.png)
+![screenshot](./book-a-doctor-frontend-main/src/assets/images/details.png)
 
 ### Book Appoinments Page
 
-![screenshot](./src/assets/images/bookAppionment.png)
+![screenshot](./book-a-doctor-frontend-main/src/assets/images/bookAppionment.png)
 
 ### Reservations Page
 
-![screenshot](./src/assets/images/reservations.png)
+![screenshot](./book-a-doctor-frontend-main/src/assets/images/reservations.png)
 
 ## Built With
 
