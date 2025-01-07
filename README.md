@@ -10,7 +10,7 @@
 
 ### Home Page
 
-![screenshot](./src/assets/images/home.png)
+![screenshot](./book-a-doctor-frontend-main/src/assets/images/home.png)
 
 ### Details Page
 
