@@ -1,15 +1,9 @@
-![](https://img.shields.io/badge/goldensquad-brown)
+
 
 # Book Appointments Frontend
 
 > Book Appointments frontend is react frontend application for doctor book appointments. This applications is responsive and users can load, create, and delete doctors and reservations. Users need to sign up or sign in to access application. They can sign up or sign in using the sign up and login forms.
 
-## Link to the backend
-
-[Book A Doctor Backend](https://github.com/clintonjosephs/book-a-doctor-frontend)
-
-## Kanban Board
-[Kanban Board](https://github.com/clintonjosephs/book-a-doctor-backend/projects/1)
 
 
 ## Preview:
